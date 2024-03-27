@@ -1,0 +1,13 @@
+ls: cannot access './nodir': No such file or directory
+error.txt
+fake001.log
+fake002.log
+output.txt
+quotes01.txt
+quotes02.txt
+error.txt
+fake001.log
+fake002.log
+output.txt
+quotes01.txt
+quotes02.txt

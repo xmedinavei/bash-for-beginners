@@ -1,0 +1,2 @@
+./hello_variable: line 8: variable_wont_change: readonly variable
+Hello World! from /workspaces/bash-for-beginners/what-is-a-variable you fav color is blue
